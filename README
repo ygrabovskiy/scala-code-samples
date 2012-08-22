@@ -1,2 +1,2 @@
 It's a helper class for spelling numbers in Russian from one of my projects.
-To run test you need SBT installed. Run "sbt test" in a project directory. 
+In order to test, run "sbt test" from a project directory. 
